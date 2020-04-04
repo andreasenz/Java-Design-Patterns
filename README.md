@@ -31,3 +31,8 @@
   <li><b>ConcreteProduct</b>: defines a product object to be created by the corresponding factory. Implements the AbstractProduct interface</li>
   <li><b>Client</b>: uses only interfaces delcared by AbstractFactory and AbstractProduct classes</li>
 </ul>
+
+
+<h1>Disclaimer</h1>
+<p>
+The knowledge reported in this guide is the result of the study and reworking of the Gang of Four book "Design Patterns: Elements of Reusable Object-Oriented Software".</p>
