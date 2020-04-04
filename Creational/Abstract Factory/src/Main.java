@@ -3,7 +3,7 @@ public class Main {
         MazeFactory factory = new MazeFactory();
         Maze myMaze = createMaze(factory);
         /*
-            This code is really easy to extend and modify: if we want and EnchantedMaze, i.e a Maze with some kind of spells,
+            This code is really easy to extend and modify: if we want an EnchantedMaze, i.e a Maze with some kind of spells,
             we can:
             - create an EnchantedMazeFactory that is a subclass of EnchantedMazeFactory
             - override the methods for creating Room, Wall, and everything can be enchanted
